@@ -3,7 +3,7 @@ IC_NAME := rtl8852a
 
 ifeq ($(CONFIG_MP_INCLUDED), y)
 ### 8852A Default Enable VHT MP HW TX MODE ###
-#EXTRA_CFLAGS += -DCONFIG_MP_VHT_HW_TX_MODE
+#ccflags-y += -DCONFIG_MP_VHT_HW_TX_MODE
 #CONFIG_MP_VHT_HW_TX_MODE = y
 endif
 
