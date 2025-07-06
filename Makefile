@@ -14,6 +14,7 @@ ccflags-y += -Wno-unused-label
 #ccflags-y += -Wno-unused-function
 ccflags-y += -Wno-unused
 #ccflags-y += -Wno-uninitialized
+ccflags-y += -Wno-missing-prototypes -Wno-empty-body -Wno-missing-declarations -Wno-enum-conversion
 
 GCC_VER_49 := $(shell echo `$(CC) -dumpversion | cut -f1-2 -d.` \>= 4.9 | bc )
 
