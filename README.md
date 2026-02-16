@@ -1,4 +1,7 @@
-## 🕊️ RIP Larry Finger (1940–2024)
+## Alternative Driver Suggested
+This is abandonware, I don't own the hardware for this and this driver will not support future kernel versions. Please use https://github.com/morrownr/rtw89
+
+## RIP Larry Finger (1940–2024)
 
 This repository serves as an **archived mirror of the original work by the late Larry Finger** on the Realtek RTL8852AU USB WiFi driver.
 
