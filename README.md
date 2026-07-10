@@ -7,18 +7,6 @@ This repository serves as an **archived mirror of the original work by the late 
 
 Larry Finger (May 22, 1940 – June 21, 2024) was a distinguished scientist and a key contributor to the **Linux wireless community**. His dedication to providing and maintaining drivers for Realtek chipsets helped countless Linux users achieve stable wireless connectivity. His legacy lives on through his open-source contributions.
 
------
-
-## 🛠️ Active Maintenance and Updates
-
-Due to the passing of Larry Finger, this repository is no longer actively maintained.
-
-**The active, community-maintained fork of this driver is now available at:**
-**[https://github.com/natimerry/rtl8852au](https://github.com/natimerry/rtl8852au)**
-
-**Please use the new fork for all installation, bug fixes, and updates.**
-
------
 
 ### **Original Project Description**
 
